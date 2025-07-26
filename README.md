@@ -6,4 +6,4 @@ This repository documents my solutions to LeetCode problems as I prepare for tec
 
 | #   | Title                            | Solution File                             | Difficulty |
 |-----|----------------------------------|-------------------------------------------|------------|
-| 1   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)               | [Python](./algorithms/strings/merge_strings_alternately.py)            | Easy       |
+| 1768   | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)               | [Python](./algorithms/strings/merge_strings_alternately.py)            | Easy       |
