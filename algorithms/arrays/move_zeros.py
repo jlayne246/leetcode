@@ -1,5 +1,7 @@
 """
-    Using bubble sort as inspiration
+Aim: Move all the 0's to the end of the array while preserving the order of everything else
+Strategy:
+* Using bubble sort as inspiration, if an element is 0, then bubble it down to the end of the array by swapping elements
 """
 
 class Solution:
